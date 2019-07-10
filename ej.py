@@ -1,0 +1,6 @@
+valor1=input("ingrese el primer valor: ")
+valor2=input("ingrese el segundo valor: ")
+print str (valor1)+"+"+ str (valor2)+"="+ str (valor1+valor2)
+print str (valor1)+"-"+ str (valor2)+"="+ str (valor1-valor2)
+print str (valor1)+"*"+ str (valor2)+"="+ str (valor1*valor2)
+print str (valor1)+"/"+ str (valor2)+"="+ str (valor1/valor2)
